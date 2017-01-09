@@ -8,6 +8,15 @@
 	  "006_5_string_interpolation.ts",
 	  "008_type_alias.ts",
 	  "009_union_types.ts",
-	  "010_arithmetic_operators.ts"
+	  "010_arithmetic_operators.ts",
+	  "011_conditionals.ts",
+	  "012_conditional_operators.ts",
+	  "013_compound_conditionals.ts",
+	  "014_loops.ts",
+	  "015_function.ts",
+	  "016_function_args.ts",
+	  "016_5_arrow_functions.ts",
+	  "017_function_declarations_vs_expressions.ts"
+
 	]
 }

@@ -30,18 +30,18 @@ console.log(numThree % numFour);
 
 //Incrementor
 console.log("Incrementor")
-var x : number = 0;
+var z : number = 0;
 
-while (x < 10) {
-	console.log(x);
-	x++;
+while (z < 10) {
+	console.log(z);
+	z++;
 }
 
 //Decremantor
 console.log("Decremantor")
-var x : number = 0;
+var z : number = 0;
 
-while (x > 0) {
-	console.log(x);
-	x--;
+while (z > 0) {
+	console.log(z);
+	z--;
 }
